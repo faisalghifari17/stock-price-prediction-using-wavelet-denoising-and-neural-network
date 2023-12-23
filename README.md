@@ -10,4 +10,5 @@ Actual Price vs Prediction Price
 ![image](https://github.com/faisalghifariz/stock-price-prediction-using-wavelet-denoising-and-neural-network/assets/90921520/45d011a0-6632-487f-b5ef-560fc4c55f63)
 
 Evaluation Metrics of the model
+
 ![image](https://github.com/faisalghifariz/stock-price-prediction-using-wavelet-denoising-and-neural-network/assets/90921520/6d492bcc-f5a1-4fa3-a114-6bdcf1527cf3)
