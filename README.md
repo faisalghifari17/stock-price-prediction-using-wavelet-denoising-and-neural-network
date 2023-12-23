@@ -1,4 +1,4 @@
-# stock-price-prediction-using-wavelet-denoising-and-neural-network
+# Stock Price Prediction using Wavelet Denoising and Neural Network
 
 In this project, we try to building a model that combining wavelet denoising and Artificial Neural Network. Using this model, we will predict stock price of Apple Inc. Then, we will evaluate model's performance using evaluation metrics.
 
